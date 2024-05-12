@@ -1,0 +1,9 @@
+<PolicySet PolicySetId="MasterPolicySet"
+           PolicyCombiningAlgId="urn:oasis:names:tc:xacml:1.0:policy-combining-algorithm:permit-overrides"
+           xmlns="urn:oasis:names:tc:xacml:3.0:core:schema:wd-17">
+    <Description>Master Policy Set</Description>
+    <Target/>
+    <PolicySetIdReference>src/policy/XACMLPolicy1.xml</PolicySetIdReference>
+    <PolicySetIdReference>src/policy/XACMLPolicy2.xml</PolicySetIdReference>
+    <PolicySetIdReference>src/policy/XACMLPolicy3.xml</PolicySetIdReference>
+</PolicySet>

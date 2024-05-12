@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\FIB\\ISDCMLab\\sunxacml-1.2\\sunxacml-1.2\\lib\\samples.jar",
+        "d:\\FIB\\ISDCMLab\\sunxacml-1.2\\sunxacml-1.2\\lib\\sunxacml.jar",
+        "d:\\FIB\\ISDCMLab\\sunxacml-1.2\\sunxacml-1.2\\lib\\sunxacml-debug.jar",
+        "d:\\FIB\\ISDCMLab\\sunxacml-1.2\\sunxacml-1.2\\lib\\tests.jar"
+    ]
+}
