@@ -29,7 +29,7 @@ public class XACMLProcessor {
     }
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in); // Create a Scanner object to read input
+        Scanner scanner = new Scanner(System.in);
         System.out.println("Enter a number (1-5) to select the request file:");
         
         int choice = scanner.nextInt();
